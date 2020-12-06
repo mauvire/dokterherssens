@@ -30504,9 +30504,8 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-text-2 {margin-top: 43px}
 .u-header .u-menu-1 {width: auto} }
 
-@media (max-width: 767px){ .u-header .u-text-2 {margin-top: 43px} }
-@media (max-width: 575px){ .u-header .u-text-1 {font-size: 3rem}
-.u-header .u-text-2 {margin-top: 43px} }
+
+@media (max-width: 575px){ .u-header .u-text-1 {font-size: 3rem} }
  .u-footer {background-image: none}
 .u-footer .u-sheet-1 {min-height: 32px}
 .u-footer .u-text-1 {width: 417px; margin: 6px auto 4px} 
